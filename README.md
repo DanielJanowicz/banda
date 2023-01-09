@@ -1,1 +1,4 @@
 # banda
+
+Discord bot
+
